@@ -4,8 +4,8 @@ automake 1.16.2-3
 baidupcs-go 3.6.2-2
 base 2-2
 bison 3.6.4-1
-deno-bin 1.1.2-1
-exa 0.9.0-1
+deno-bin 1.2.0-1
+exa 0.9.0-2
 fakeroot 1.24-2
 fd 8.1.1-1
 fish 3.1.2-2
@@ -13,10 +13,10 @@ flex 2.6.4-3
 gcc 10.1.0-2
 glances 3.1.4.1-1
 groff 1.22.4-3
-httpie 2.2.0-1
+httpie 2.2.0-2
 linux-tools-meta 5.7-1
 make 4.3-3
-micro-bin 2.0.6-1
+micro-bin 2.0.6-3
 mosh 1.3.2-12
 nano 4.9.3-1
 ncdu 1.15.1-1
@@ -25,11 +25,11 @@ pacvis-git 0.2.7.r4.g30b2956-1
 patch 2.7.6-8
 pkgbuild-introspection-git 9-1
 pkgconf 1.7.3-1
-python-autopep8 1.4.4-1
 python-mongoengine 0.20.0-1
 python-plotly 4.8.1-1
 python-poetry 1.0.9-1
-rustup 1.21.1-5
+python-sympy 1.6.1-1
+rustup 1.22.1-1
 texlive-bibtexextra 2020.55376-1
 texlive-fontsextra 2020.55407-1
 texlive-formatsextra 2020.54498-1
@@ -45,5 +45,5 @@ vue-cli 4.4.6-1
 wget 1.20.3-3
 which 2.21-5
 yarn 1.22.4-1
-yay 10.0.1-1
-z.lua 1.8.4-1
+yay 10.0.3-1
+z.lua 1.8.7-1
